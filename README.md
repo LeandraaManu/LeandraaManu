@@ -5,7 +5,7 @@ learning new things and excited to grow as a developer. Currently exploring the
 basics of coding, problem-solving, and building my first projects.
 
 ## 🌱 Currently Learning
-- java and C++
+- Java and C++
 - Logic and problem-solving
 
 ## 🛠️ Technologies I've Studied
