@@ -21,4 +21,4 @@ about technology and constantly working to expand my skills as a developer.
 
 ## 📫 Get in Touch
 - **Email:** leandralimirio20@gmail.com
-- **LinkedIn:** [linkedin.com/in/leandra](www.linkedin.com/in/leandra-emanuelle-859799296)
+- **LinkedIn:** www.linkedin.com/in/leandra-emanuelle-859799296
