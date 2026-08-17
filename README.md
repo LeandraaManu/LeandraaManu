@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Leandra 👋
 
-<!--
-**LeandraaManu/LeandraaManu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just starting my journey in the programming world! 🚀 I'm passionate about 
+learning new things and excited to grow as a developer. Currently exploring the 
+basics of coding, problem-solving, and building my first projects.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- java and C++
+- Logic and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I've Studied
+- **Languages:** HTML, C#, C++, Java (beginner level)
+
+## 🎯 Goals
+- Build my first complete project
+- Keep growing every day, one line of code at a time
+
+## 📫 Get in Touch
+- **Email:** leandralimirio20@gmail.com
+- **LinkedIn:** www.linkedin.com/in/leandra-emanuelle-859799296
