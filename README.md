@@ -1,20 +1,24 @@
 # Hi there, I'm Leandra 👋
 
-I'm just starting my journey in the programming world! 🚀 I'm passionate about 
-learning new things and excited to grow as a developer. Currently exploring the 
-basics of coding, problem-solving, and building my first projects.
+I'm 25 years old and currently studying Systems Analysis and Development (ADS). 
+I also hold a technical degree in IT Maintenance and Support. I'm passionate 
+about technology and constantly working to expand my skills as a developer.
 
 ## 🌱 Currently Learning
-- Java and C++
-- Logic and problem-solving
+- Java
+- C++
 
-## 🛠️ Technologies I've Studied
-- **Languages:** HTML, C#, C++, Java (beginner level)
+## 🛠️ Technologies I Know
+- **Languages:** Java, C++, C#, HTML
+- **Also interested in learning:** Python
+- **Background:** IT Maintenance and Support (Technical Degree)
 
 ## 🎯 Goals
-- Build my first complete project
-- Keep growing every day, one line of code at a time
+- Deepen my knowledge in Java and C++
+- Learn Python
+- Build solid projects to apply what I'm learning
+- Grow as a professional in Systems Analysis and Development
 
 ## 📫 Get in Touch
 - **Email:** leandralimirio20@gmail.com
-- **LinkedIn:** www.linkedin.com/in/leandra-emanuelle-859799296
+- **LinkedIn:** [linkedin.com/in/leandra](www.linkedin.com/in/leandra-emanuelle-859799296)
