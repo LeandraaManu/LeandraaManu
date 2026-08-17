@@ -9,7 +9,7 @@ about technology and constantly working to expand my skills as a developer.
 - C++
 
 ## 🛠️ Technologies I Know
-- **Languages:** Java, C++, C#, HTML
+- **Languages:** Java, C++, C#, HTML and SQL
 - **Also interested in learning:** Python
 - **Background:** IT Maintenance and Support (Technical Degree)
 
